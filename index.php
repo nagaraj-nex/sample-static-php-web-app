@@ -46,7 +46,7 @@
                             <div class="step-icon">
                                 <img src="img/lightbulbWhite.svg">
                             </div>
-                            <div class="step-text">This website runs on <?php $ip = $_SERVER['SERVER_ADDR']; echo "IP: $ip", "<br>";?>
+                            <div class="step-text">This website runs on Local IP<?php $ip = $_SERVER['SERVER_ADDR']; echo "IP: $ip", "<br>";?>
 
 </div>
                         
